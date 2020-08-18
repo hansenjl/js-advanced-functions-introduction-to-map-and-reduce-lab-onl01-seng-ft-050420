@@ -1,4 +1,8 @@
 // Your code here
+
+function mapToSquare(){
+  
+}
 function reduceToTotal(){
   
 }
