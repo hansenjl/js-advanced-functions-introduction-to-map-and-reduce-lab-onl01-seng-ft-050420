@@ -1,7 +1,11 @@
 // Your code here
 
-function mapToNegativize(){
-  
+function mapToNegativize(arr){
+  let newArr = []
+  arr.forEach(num){
+    newArr.push(num*-1)
+  }
+  return newArr
 }
 
 function mapToSquare(){
