@@ -11,6 +11,7 @@ function mapToNegativize(arr){
 function mapToSquare(){
   
 }
+
 function reduceToTotal(){
   
 }
