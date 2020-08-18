@@ -1,5 +1,9 @@
 // Your code here
 
+function mapToNegativize(){
+  
+}
+
 function mapToSquare(){
   
 }
